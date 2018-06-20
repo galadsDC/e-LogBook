@@ -33,9 +33,9 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="/">Home</a></li>
-                        <li><a href="/../Pages/about.php">About</a></li>
-                        <li><a href="/../Pages/contact.php">Contact</a></li>
+                        <li <?php if (basename($_SERVER["SCRIPT_NAME"], '.php') == 'index'){echo('class="active"');} ?>><a href="/">Home</a></li>
+                        <li <?php if (basename($_SERVER["SCRIPT_NAME"], '.php') == 'about'){echo('class="active"');} ?>><a href="/../Pages/about.php">About</a></li>
+                        <li <?php if (basename($_SERVER["SCRIPT_NAME"], '.php') == 'contact'){echo('class="active"');} ?>><a href="/../Pages/contact.php">Contact</a></li>
                         <!-- <li>
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown</a>
                             <ul class="dropdown-menu">
@@ -49,6 +49,7 @@
                             </ul>
                         </li> -->
                     </ul>
+                    <!-- Check if the user is logged in and hide the login form for the user. -->
                     <form class="navbar-form navbar-right">
                         <div class="form-group">
                             <input type="text" placeholder="Email" class="form-control">

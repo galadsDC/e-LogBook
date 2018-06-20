@@ -6,7 +6,7 @@
 
                 <p>This app is meant to be used by IT students in different organisations and schools to maintain an online log which can be accessed by both their school supervisor and current organisation supervisor, this will help streamline their Logbook approval process.</p>
 
-                <p><a class="btn btn-primary btn-lg" href="Pages/about.php">Learn more &raquo;</a></p>
+                <p><a class="btn btn-primary btn-lg" href="/../Pages/about.php">Learn more &raquo;</a></p>
             </div>
         </div>
 
