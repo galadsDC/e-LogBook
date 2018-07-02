@@ -1,0 +1,12 @@
+ <?php require_once __DIR__ . "/header.php"; ?>
+ 
++    <div class="container">
++        <div class="row">
++            <h2>About e-LogBook</h2>
++            <p>Electronic Logging Device (ELD or E-Log) is electronic hardware that is attached to a commercial motor vehicle engine to record driving hours.The driving hours of commercial drivers (truck and bus drivers) are regulated by a set of rules known as the hours of service (HOS). The Commercial Vehicle Driver Hours of Service Regulations vary in Canada and the United States.</p>
++            <p>An ELD monitors a vehicle’s engine to capture data on whether the engine is running, whether the vehicle is moving, miles were driven, and duration of engine operation.</p>
+             <p>Previously, paper logs or electronic on-board recorders (EOBR) were used for hours-of-service tracking. Even though an electronic on-board recorder (EOBR)-style log improves the accuracy of the data, the lack of a consistent data format meant that the logs needed to be regenerated to an equivalent “paper” format for review and enforcement. The Record of Duty Status (RODS) definition within the ELD legislation defines a consistent format for enforcement personnel to review, so the ELD Mandate was created.</p>
+             <p>The Federal Motor Carrier Safety Administration (FMCSA) announced the Final Rule of the ELD mandate, and the ELD rule being implemented in several phases with a compliance date of December 18, 2017.[4] Fleets have until December 2017 to implement certified ELDs [5] to record HOS. Fleets already equipped with electronic logging technology will have until December 2019 to ensure compliance with the published specifications.</p>
++        </div>
+ 
+ <?php require_once __DIR__ . "/footer.php"; ?>
