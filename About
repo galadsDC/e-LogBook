@@ -1,0 +1,34 @@
+<?php require_once __DIR__ . "/header.php"; ?>
+ 
++    <div class="container">
++        <div class="row">
++            <h2>About e-LogBook</h2>
++            <p>Electronic logbooks provide accurate records for vehicle operating data and driver activity – and over the long run can save trucking, transportation and service organizations time and money.</p>
++            <p>An electronic logbook is a small computer tablet mounted in a truck cab. Some devices have mobile capabilities and can be hand-carried by a driver. Other components can include data collection sensors attached to the motor vehicle to record such metrics as engine temperature, fuel consumption, vehicle motion, speed and other parameters. The recorded vehicle and driver data can be automatically transmitted to an office or stored for other uses, including timekeeping or review during a vehicle inspection.</p>
+             <p>Why it is required, and when
+
+By US law, since 1937 over-the-road truckers have maintained written documentation of their hours of service (HOS), as a record of duty status (RODS). The authorities use this information to ensure that drivers do not exceed their maximum hours of service between rest periods. Studies prove that commercial driver fatigue resulting from too many hours behind the wheel is a leading cause of highway accidents. 
+
+
+When this cause-and-effect relationship was confirmed, the accuracy and reliability of these records became a priority in Washington. In 2015 the US Federal Motor Carrier Safety Administration mandated that the paper logbooks used for driver RODS must be replaced by electronic logs. 
+
+
+One form of this device is an earlier version known as an AOBRD, or automatic on-board recording device. Vehicles equipped with AOBRDs installed before December 18, 2017 can continue to use them for recording HOS, but every vehicle covered under these rules must be equipped with a fully functional, certified ELD after December 16, 2019.</p>
+             <p>Benefits of electronic logging 
+
+Several trucking companies and other organizations have already made the conversion to ELDs, to stay ahead of the federal deadlines and successfully implement adoption throughout their fleets. In doing so many have begun to profit from the advantages this technology offers.
+
+
+Electronic logging devices can save a trucking organization time and money. It helps add to the bottom line in reducing costs and improving productivity. 
+Using an ELD can allow a driver to spend more time on the road, and less on completing paperwork or waiting at inspection points. It can even reduce the need for unanticipated repairs, to keep unwanted vehicle and river downtime at a minimum.</p>
+             <p>Choosing an ELD
+
+Before selecting an electronic logging device, it’s important to review which features and configurations of these systems conform to a vehicle fleet’s operating requirements. Factors to consider include: 
+
+    Scalability: Can the ELD solution be sized to the vehicle fleet, and adjusted to meet changing requirements?
+    Portability: If the vehicles are rented or leased, is the technology easily transferable? 
+    Back-office compatibility: Does the solution provide features that allow it to be integrated into daily operations, including support functions such as service scheduling or payroll?
+    Support: Is the solution available from an experienced, professional organization that can help implement it or oversee the entire process, and provide ongoing technical assistance?</p>
++        </div>
+ 
+ <?php require_once __DIR__ . "/footer.php"; ?>C
